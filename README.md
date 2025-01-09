@@ -33,6 +33,14 @@
 - При появлении диалогового окна введите `логин:пароль`, которые можно найти в логах запущенного `Docker`-контейнера `Login with username:логин password:пароль`
 ![Dialogscreen](./docs/dialogscreen.png)
 
+## Использование
+
+1. Результаты работы (скриншот графа в `Airflow`)
+  ![ScreenshotGraph](./docs/screenshot.png)
+  
+2. Главная страница
+  ![ScreenshotMain](./docs/screenshot2.png)
+
 ## Выполнил
 ```
 Кузнецов Иван
